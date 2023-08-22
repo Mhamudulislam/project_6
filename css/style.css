@@ -14,9 +14,3 @@ bdo
 {
     unicode-bidi: bidi-override;
 }
-html
-{
-    
-    background-image: url("../Gifs/sky.gif");
-    background-attachment: fixed;
-}
