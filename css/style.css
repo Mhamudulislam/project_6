@@ -14,3 +14,7 @@ bdo
 {
     unicode-bidi: bidi-override;
 }
+html
+{
+    background-color: rgb(49, 97, 99);
+}
